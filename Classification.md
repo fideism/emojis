@@ -1,6 +1,6 @@
 Lists all the emojis available to use on GitHub. Source from [Github-API](https://developer.github.com/v3/emojis/)
 
-Click[All](https://github.com/fideism/emojis/blob/master/README.md) see all edition.
+Click [All](https://github.com/fideism/emojis/blob/master/README.md) see all edition.
 
 ---
 ## Topic
