@@ -1,10 +1,10 @@
-Lists all the emojis available to use on GitHub.
+Lists all the emojis available to use on GitHub. Source from [Github-API](https://developer.github.com/v3/emojis/)
 
-[API](https://developer.github.com/v3/emojis/)
+Click [Classification](https://github.com/fideism/emojis/blob/master/Classification.md) see classification edition.
 
+---
 ## emojis 
-
-| emoji | emoji | emoji |
+| &nbsp; | &nbsp; | &nbsp; |
 |:-|:-|:-|
 | :+1: `+1` | :-1: `-1` | :100: `100` |
 | :1234: `1234` | :1st_place_medal: `1st_place_medal` | :2nd_place_medal: `2nd_place_medal` |
@@ -510,6 +510,7 @@ Lists all the emojis available to use on GitHub.
 | :zap: `zap` | :zero: `zero` | :zimbabwe: `zimbabwe` |
 | :zipper_mouth_face: `zipper_mouth_face` | :zzz: `zzz` |
 
+---
 ## LICENSE
 
 [![Packagist](https://img.shields.io/packagist/l/doctrine/orm.svg)](https://github.com/fideism/emojis/blob/master/LICENSE)
